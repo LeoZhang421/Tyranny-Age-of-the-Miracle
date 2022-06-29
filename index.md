@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Leo Zhang ##
++ Email: <font color="#4ea1db">zyn000421@gmail.com</font>
+
++ Mobile: <font color="#4ea1db">+86-182-2164-5782</font>
+
+### Education
++ #### Fudan University
+&ensp;&ensp;&ensp;&ensp;*Bachelor of Theoretical and Applied Mechanics*
 
 You can use the [editor on GitHub](https://github.com/LeoZhang421/LeoZhang421.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
