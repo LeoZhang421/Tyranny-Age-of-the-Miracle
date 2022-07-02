@@ -4,16 +4,16 @@
 + Mobile: <font color="#4ea1db">+86-182-2164-5782</font>
 
 ### Education
+---
 + #### Fudan University
 &ensp;&ensp;&ensp;&ensp;*Bachelor of Theoretical and Applied Mechanics*
+&ensp;&ensp;&ensp;&ensp;
+### Experience
+---
 
-You can use the [editor on GitHub](https://github.com/LeoZhang421/LeoZhang421.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ #### CCP
+&ensp;&ensp;&ensp;&ensp;*Game Design Intern*
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Localization
 
 ```markdown
 Syntax highlighted code block
