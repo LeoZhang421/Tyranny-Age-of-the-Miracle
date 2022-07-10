@@ -12,8 +12,8 @@
 ---
 
 + #### CCP
-&ensp;&ensp;&ensp;&ensp;*Game Design Intern*
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Localization
+&ensp;&ensp;&ensp;&ensp;*Game Design Intern*</br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Localization**: Localization procedure of all ingame texts(texts in UI, scripts, and tables)
 
 ```markdown
 Syntax highlighted code block
