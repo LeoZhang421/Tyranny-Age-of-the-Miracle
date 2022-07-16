@@ -10,30 +10,15 @@
 &ensp;&ensp;&ensp;&ensp;
 ### Experience
 ---
-
-+ #### CCP
++ #### CCP Games
 &ensp;&ensp;&ensp;&ensp;*Game Design Intern*</br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Localization**: Localization procedure of all ingame texts(texts in UI, scripts, and tables)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Localization**: Help with testing the localization procedure of all ingame texts(texts in UI, scripts, tables)</br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**System Design**: Tutorials, Chatting System(for now)</br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Daily work**: Bug testing&player feedback collecting</br>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Projects
+---
++ #### 4X mobile project
 
 ### Jekyll Themes
 
