@@ -1,38 +1,14 @@
-## Leo Zhang ##
-+ Email: <font color="#4ea1db">zyn000421@gmail.com</font>
-
-+ Mobile: <font color="#4ea1db">+86-182-2164-5782</font>
-+ Current time zone: UTC+8
-
-### Education
+## 神话道途
 ---
-+ #### Fudan University
-&ensp;&ensp;&ensp;&ensp;*Bachelor of Theoretical and Applied Mechanics*
-&ensp;&ensp;&ensp;&ensp;
-### Experience
+* 重新定义神话能力：当角色到达了特定的等级，他们会开启神话道途，这是根据开启神话道途时选定的特定职阶所决定的一系列能力。
+* 神话能力的获取：神话能力会在角色开启神话道途的那一刹那，以及随后每次提升角色等级时获得（每次都获得一个）。
+* 获取的限制：道途的神话能力是依次开启的，但是单个道途会有不同的神话能力树，角色每次获取能力只能从树中的顺序从低到高获取，但是树与树之间没有限制。
 ---
-+ #### CCP Games
-    *Game Design Intern*</br>
-    **Localization**: Help with testing the localization procedure of all ingame texts(texts in UI, scripts, tables)</br>
-    **System Design**: Tutorials, Chatting Systems(for now)</br>
-    **Daily work**: Bug testing & player feedback collecting</br>
-
-### Projects
----
-+ #### 4X mobile project
-    Based on the frame of one successful 4X mobile game first released in mainland China(part of its backend logics, core mechanics and UI layouts). Joined the project from its 1st primary version release to the 2nd release, during which multiple new functions has been developed, including LOD maps, combat redesign, social system predeveloping, world map incidental functions developing, and 3D city building.
-
-### Skills & Certificates
----
-+ #### Softwares
-    Unity3D Editor</br>
-    Perforce Helix Core</br>
-    Microsoft Visio</br>
-    Blender(basic modeling and geomotry nodes)</br>
-    Matlab(parameter identification and simple GUI)</br>
-+ #### Languages
-    Python: Machine Learning(AR, VAR)</br>
-    mysql: basic DDL and DQL</br>
-    C#</br>
-+ #### Certificates
-    IBM Enterprise Design Thinking Course
+### 道途详述
+**时空守卫**
+*能力树：螺旋灵刃*
+* 跃迁之刃（1级）
+*能力树：螺旋灵弓*
+*能力树：时空战斗*
+*能力树：时空折叠*
+*能力树：速度掌控*
