@@ -1,69 +1,84 @@
 ## 神话道途
 ---
-* 重新定义神话能力：当角色到达了特定的等级，他们会开启神话道途，这是根据开启神话道途时选定的**特定职阶**所决定的一系列能力。
+* 重新定义神话能力：当角色到达了特定的等级，他们会开启神话道途，这是根据开启神话道途时选定的**特定职阶**所决定的一系列能力。如果没有特殊注明，神话能力的DC均等于15+神话阶层
 * 神话能力的获取：神话能力会在角色开启神话道途的那一刹那，以及随后每次提升角色等级时获得（每次都获得一个）。
 * 获取的限制：神话能力是依次开启的，但是单个职阶会有不同的神话能力树，角色每次获取能力只能从树中的顺序从低级到高级获取，但是树与树之间没有限制。
 ---
 ### 职阶详述
+---
 **时空守卫**</br>
 </br>
 *能力树：螺旋灵刃*</br>
 *将时空之力与双持战斗结合。*
-* 扭曲灵刃（1级）![图片](https://user-images.githubusercontent.com/102232196/181738780-4e3793c1-3020-46eb-87ab-2d04e2e0f641.png)</br>
+* 扭曲灵刃Ex（1级）![图片](https://user-images.githubusercontent.com/102232196/181738780-4e3793c1-3020-46eb-87ab-2d04e2e0f641.png)</br>
 你扭曲空间，奇迹般挥舞手中的武器。无论你手中握持着什么物品，以一个自由动作你便能拔出任何轻型武器到你手中，并将手中原来握持的物品收纳到正确的位置。每轮你只能使用扭曲灵刃和重叠灵矢至多一次。
-* 闪烁灵刃（2级）![图片](https://user-images.githubusercontent.com/102232196/181739050-69b79bd0-7172-44fa-9585-29d588e04dcd.png)</br>
+* 闪烁灵刃Su（2级）![图片](https://user-images.githubusercontent.com/102232196/181739050-69b79bd0-7172-44fa-9585-29d588e04dcd.png)</br>
 每场遭遇一次，以一个标准动作，你能多次传送（总传送距离不高于你的基础陆地速度），并用手中的轻型武器攻击路径上邻接的至多两个敌人，你在这两次攻击上获得等同于智力调整值的额外加值
-* 灵刃切变（3级）![图片](https://user-images.githubusercontent.com/102232196/181739102-8e10029b-5c88-45e1-b3ce-52e6f338b5bf.png)</br>
+* 灵刃切变Su（3级）![图片](https://user-images.githubusercontent.com/102232196/181739102-8e10029b-5c88-45e1-b3ce-52e6f338b5bf.png)</br>
 每场遭遇一次，以一个标准动作，你能用手中的轻型武器对其威胁范围内的敌人进行三次攻击，并将你的智力调整值加到灵刃切变的攻击加值和伤害加值中。任何一次攻击命中将会制造一次时空切变，溅射向对应15尺锥形范围内的目标，造成完全相同的武器伤害（但不会附加额外的非伤害性效果）。
-* 灵刃守卫（4级）![图片](https://user-images.githubusercontent.com/102232196/181739229-74fc3ebc-30bc-4f9a-bf23-a1dd8bced7a7.png)</br>
+* 灵刃守卫Ex（4级）![图片](https://user-images.githubusercontent.com/102232196/181739229-74fc3ebc-30bc-4f9a-bf23-a1dd8bced7a7.png)</br>
 当你的主副手均握持着轻型武器时，每轮一次，你可以尝试格挡攻击，对于任何需要掷骰的攻击你均可以尝试格挡，如果你格挡的攻击结果高于对方的攻击结果，则这次攻击自动失手。
 </br>
 
 *能力树：螺旋灵弓*</br>
 *将时空之力和远程战斗结合。*
-* 重叠灵矢（1级）![图片](https://user-images.githubusercontent.com/102232196/181740249-591dd53b-81f3-4878-b72e-782fcff2c5eb.png)</br>
+* 重叠灵矢Ex（1级）![图片](https://user-images.githubusercontent.com/102232196/181740249-591dd53b-81f3-4878-b72e-782fcff2c5eb.png)</br>
 你扭曲空间，奇迹般挥舞手中的弓矢。无论你手中握持着什么物品，以一个自由动作你便能拔出任何弓到你手中，并将手中原来握持的物品收纳到正确的位置。每轮你只能使用扭曲灵刃和重叠灵矢至多一次。
-* 奇点之矢（2级）![图片](https://user-images.githubusercontent.com/102232196/181740291-72424178-2066-4ba9-ae47-0391416b363e.png)</br>
+* 奇点之矢Su（2级）![图片](https://user-images.githubusercontent.com/102232196/181740291-72424178-2066-4ba9-ae47-0391416b363e.png)</br>
 每场遭遇一次，以一个标准动作，你用手中的弓射出一支灵矢并牵引目标地点周围10尺半径内的所有目标，造成如同正常命中的双倍武器伤害加上你的智力调整值
-* 灵矢回声（3级）![图片](https://user-images.githubusercontent.com/102232196/181740332-47b35460-93cc-403d-91c7-e1336cfb7e39.png)</br>
+* 灵矢回声Su（3级）![图片](https://user-images.githubusercontent.com/102232196/181740332-47b35460-93cc-403d-91c7-e1336cfb7e39.png)</br>
 每场遭遇一次，你能复制出攻击的倒影，这是一个自由动作启动的能力，在接下来的四轮里，你每轮能复制一次该轮你第一次用弓进行的远程攻击，并紧接在其后发动。
-* 螺旋灵矢（4级）![图片](https://user-images.githubusercontent.com/102232196/181740382-66164bdb-3c47-45d1-b068-61595cba0d99.png)</br>
+* 螺旋灵矢Su（4级）![图片](https://user-images.githubusercontent.com/102232196/181740382-66164bdb-3c47-45d1-b068-61595cba0d99.png)</br>
 每天一次，以一个自由动作，在你的邻接方格召唤两个你自己的时空复制体，持续一轮，时空复制体继承你的所有能力并且如同可行动单位一般正常获得回合内动作，但是他们不能采用超过标准动作的动作类型
 </br>
 
 *能力树：时空格斗*</br>
 *将时空之力和物理战斗结合。*
-* 鼓舞（1级）![图片](https://user-images.githubusercontent.com/102232196/181740488-c9903af2-b0cf-4c00-8790-a2497be7a97f.png)</br>
+* 鼓舞Ex（1级）![图片](https://user-images.githubusercontent.com/102232196/181740488-c9903af2-b0cf-4c00-8790-a2497be7a97f.png)</br>
 你汲取时空力量，治疗自己1d8+智力调整值点生命，每天能使用1/2神话阶层次
-* 多态武器（2级）![图片](https://user-images.githubusercontent.com/102232196/181740528-8b1cdb47-933f-414a-93b9-ee337d105608.png)</br>
+* 多态武器Ex（2级）![图片](https://user-images.githubusercontent.com/102232196/181740528-8b1cdb47-933f-414a-93b9-ee337d105608.png)</br>
 你手中的武器受到时空扭曲的影响，能随时变换成合适的样子。你每次通过武器攻击所造成的伤害都可以是钝击、挥砍或穿刺的任意一种类型。
-* 破灭（3级）![图片](https://user-images.githubusercontent.com/102232196/181740561-72c0cbba-3ada-4cae-a19e-2e5621b18af8.png)</br>
+* 破灭Ex（3级）![图片](https://user-images.githubusercontent.com/102232196/181740561-72c0cbba-3ada-4cae-a19e-2e5621b18af8.png)</br>
 你的武器攻击能进一步瓦解对手的防御，你获得*穿透打击*作为奖励专长，当你的神话阶层达到8时，你获得*高等穿透打击*作为奖励专长，当考虑对穿透打击生效的武器时，你视为选定了所有的武器。
-* 武器折叠（4级）![图片](https://user-images.githubusercontent.com/102232196/181740588-aa9c235d-e4e9-4102-b968-dcd6f31347b4.png)</br>
+* 武器折叠Su（4级）![图片](https://user-images.githubusercontent.com/102232196/181740588-aa9c235d-e4e9-4102-b968-dcd6f31347b4.png)</br>
 当你的武器重击时，它切开时空的裂隙，让你得以窥见世界的另一种可能性，你可以放弃重击倍率来获得额外的标准动作（一倍重击倍率对应一个标准动作），但是你不能放弃全部的伤害。
 </br>
 
 *能力树：螺旋战斗*</br>
 *将远程战斗和双持战斗结合。*
-* 空间行走（1级）![图片](https://user-images.githubusercontent.com/102232196/181740644-fe82f8ec-5dba-4bd0-8af1-5b6b7ec85cf5.png)</br>
+* 空间行走Su（1级）![图片](https://user-images.githubusercontent.com/102232196/181740644-fe82f8ec-5dba-4bd0-8af1-5b6b7ec85cf5.png)</br>
 以一个标准动作，你用手中的弓或者轻型武器发动一次攻击。如果你使用的是弓，那么你在攻击后传送至攻击目标周围距你最近的一个邻接方格；如果你使用的是轻型武器，那么你在攻击后传送至多等于你基础陆地速度的距离，落点由你自己选择。
-* 混合螺旋（2级）![图片](https://user-images.githubusercontent.com/102232196/181740685-684a4b17-e8f7-4983-b421-a9fd67b80174.png)</br>
+* 混合螺旋Ex（2级）![图片](https://user-images.githubusercontent.com/102232196/181740685-684a4b17-e8f7-4983-b421-a9fd67b80174.png)</br>
 你的轻型武器命中时，该轮中你所有用弓发起的攻击额外获得1点洞察加值。你的弓命中时，该轮中你所有用轻型武器发起的攻击额外获得1点洞察加值。额外加值在每4神话阶层时额外加1点。
-* 针形聚焦（3级）![图片](https://user-images.githubusercontent.com/102232196/181740712-cdb2d0dc-b5de-4c0e-9614-857d651dc4d0.png)</br>
+* 针形聚焦Su（3级）![图片](https://user-images.githubusercontent.com/102232196/181740712-cdb2d0dc-b5de-4c0e-9614-857d651dc4d0.png)</br>
 每场遭遇一次，你聚焦时空能量来强化攻击，持续一轮。你手中的弓能攻击一倍射程增量内一整条直线上的所有敌人，你手中的轻型武器能攻击你邻接方格的所有敌人（你不需要为每个敌人投掷额外的攻击骰）。
-* 守卫呼唤（4级）![图片](https://user-images.githubusercontent.com/102232196/181740734-d5dfcd5a-c350-482a-a794-be102620ec04.png)</br>
+* 守卫呼唤Su（4级）![图片](https://user-images.githubusercontent.com/102232196/181740734-d5dfcd5a-c350-482a-a794-be102620ec04.png)</br>
 当你使用弓或轻型武器重击时，你从另一个时空召唤出自己的复制体，复制造成重击的攻击（该次攻击与造成重击的单次攻击完全相同，只是需要额外的攻击投骰）
 </br>
 
 *能力树：速度掌控*</br>
 *控制物体和生物在时空中前进的速度。*
-* 迅捷（1级）![图片](https://user-images.githubusercontent.com/102232196/181740759-e4966bed-7700-408d-bb2e-f15e1e38d24b.png)</br>
+* 迅捷Ex（1级）![图片](https://user-images.githubusercontent.com/102232196/181740759-e4966bed-7700-408d-bb2e-f15e1e38d24b.png)</br>
 你的基础陆地速度增加10尺。
-* 时间膨胀（2级）![图片](https://user-images.githubusercontent.com/102232196/181740782-b6c32559-633d-4eb9-96d6-9efb6e74f329.png)</br>
+* 时间膨胀Ex（2级）![图片](https://user-images.githubusercontent.com/102232196/181740782-b6c32559-633d-4eb9-96d6-9efb6e74f329.png)</br>
 每当你使用需要标准动作启用的时空守卫神话能力时，你在该轮额外获得一个迅捷动作（每轮至多获得一个）。
-* 加速（3级）![图片](https://user-images.githubusercontent.com/102232196/181740818-ee8a85b9-335c-40bb-9dea-e9800b24489c.png)</br>
+* 加速Ex（3级）![图片](https://user-images.githubusercontent.com/102232196/181740818-ee8a85b9-335c-40bb-9dea-e9800b24489c.png)</br>
 每天一次，你能额外获得一个标准动作。
-* 时间停止（4级）![图片](https://user-images.githubusercontent.com/102232196/181740842-fe506f73-254c-47d2-99d7-16fc14fa854a.png)</br>
+* 时间停止Ex（4级）![图片](https://user-images.githubusercontent.com/102232196/181740842-fe506f73-254c-47d2-99d7-16fc14fa854a.png)</br>
 每天一次，你额外获得一个完整的行动轮，该行动轮中的规则完全如同*时间静止*法术。
 </br>
 
+---
+**毁灭使者**</br>
+</br>
+*能力树：残暴*</br>
+*用恶魔之力驱使双手武器，施展毁灭性的打击。*
+* 汲魂痛击Ex（1级）![图片](https://user-images.githubusercontent.com/102232196/181765403-ca47b8c4-4ba5-4faa-98de-e9caef89df3c.png)</br>
+以一个标准动作，你用近战武器进行两次打击，在第二次攻击骰上需要承受5点减值。
+* 炙炎之牢Su（2级）![图片](https://user-images.githubusercontent.com/102232196/181765513-57d8a59a-d521-4702-b783-91340116c903.png)</br>
+对20尺内的目标伸出一只无需命中的直线型火爪，造成每神话阶层d6点火焰伤害，路径上的生物会受到同样的火焰伤害，但是可以通过成功的反射豁免减半。
+* 舍身一击Ex（3级）![图片](https://user-images.githubusercontent.com/102232196/181765599-2009ec34-09c0-49ad-9547-515b4f6f9ec6.png)</br>
+每场遭遇一次，以一个标准动作，你能用手中的武器进行一次毁灭性的打击，造成三倍伤害（如同重击），你付出生命力的代价让这次攻击无视所有失手的可能性自动命中。当攻击完成后，你受到等同于该次攻击一半的伤害，如此受到的伤害不能被任何方式避免或减免。
+* 以眼还眼（4级）![图片](https://user-images.githubusercontent.com/102232196/181765647-89814958-2a39-4b9a-8e26-9cd0078344e8.png)</br>
+你沉迷于战争的狂热，在战斗中你可以以一个自由动作进入反击的态势，敌人对你的攻击检定和伤害检定+4，但是对你的每次近战攻击都会引起毁灭使者的借机攻击，借机攻击会在敌人的攻击之前完成。该能力不能和野蛮人的反击态势一同使用。
+</br>
