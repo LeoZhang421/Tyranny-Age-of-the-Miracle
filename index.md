@@ -476,7 +476,7 @@
 *操控火焰的炼金法术。*
 * 火焰充能Su（1级）![图片](https://user-images.githubusercontent.com/102232196/192108221-9244cae7-138f-4e7e-ba70-a89659cbc56a.png)</br>
 你获得炼金术士的“炼金炸弹”职业能力，使用你的人物等级作为有效炼金术士等级。
-* 烟雾弹Su（2级）![图片](https://user-images.githubusercontent.com/102232196/191676626-38fa30e1-80f9-4705-b9da-2180506d429b.png)</br>
+* 烟雾弹Su（2级）![图片](https://user-images.githubusercontent.com/102232196/192109850-f7a960f9-22ab-49b4-bc10-5d1bf63ba1fc.png)</br>
 你制造的炸弹可以产生一阵浓烟，浓烟覆盖范围是溅射范围的两倍，持续一轮时间。
 * 火焰风暴Su（3级）![图片](https://user-images.githubusercontent.com/102232196/192108351-4d4ecb84-bb93-4b3e-9bd2-fe2afd45cb9f.png)</br>
 你可以让火焰充能炸弹不再攻击单一的目标，而是对溅射范围内的所有生物造成火焰伤害，火焰风暴的伤害和火焰充能炸弹直击的伤害相同，该伤害可以通过一个反射检定来减半。
