@@ -709,18 +709,13 @@
 </br>
 *能力树：盾牌攻击*</br>
 *使你精通于使用单手武器加盾牌的战斗技能。*
-* 光能沁盾Ex（1级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/539d34f0-9b5a-41aa-9ca6-044393fc85c7)
-</br>
+* 光能沁盾Ex（1级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/539d34f0-9b5a-41aa-9ca6-044393fc85c7)</br>
 当你同时持用一面盾牌和一件可单手持用的武器时，以一个标准动作，你能作出两次盾击攻击动作。
-* 剑盾之怒Ex（2级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/64b1f7ab-5d2f-436b-89cb-5e3cf1cad808)
-
-</br>
+* 剑盾之怒Ex（2级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/64b1f7ab-5d2f-436b-89cb-5e3cf1cad808)</br>
 每轮一次，当敌人对你的近战攻击失手，你可以以借机攻击用盾牌发动反击。
-* 惩戒之盾Ex（3级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/38ecf0f9-f27b-49fe-a4e5-3e7bfe8f8152)
-</br>
+* 惩戒之盾Ex（3级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/38ecf0f9-f27b-49fe-a4e5-3e7bfe8f8152)</br>
 你在全防御时依旧能具有威胁范围和借机次数。
-* 十字军打击Ex（4级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/441c19de-3b50-4a50-adbc-fbeca88eb4c0)
-</br>
+* 十字军打击Ex（4级）![图片](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/441c19de-3b50-4a50-adbc-fbeca88eb4c0)</br>
 每当你成功使用盾击造成重击时，就能以自由动作对相同的目标，使用相同的加值对其进行近战攻击。
 </br>
 
