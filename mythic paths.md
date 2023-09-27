@@ -721,8 +721,7 @@
 
 *能力树：战斗*</br>
 *你专注于同你的敌人战斗，毫不迟疑。*
-* 光明之刃Ex（1级）![weapon_of_light](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/a4176acd-9ea6-4786-aa1c-b120e7541800)
-</br>
+* 光明之刃Ex（1级）![weapon_of_light](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/5cec59be-f46a-448d-b6c6-a69835a40a40)</br>
 当你成功使用盾击命中目标时，以一个直觉动作，你能引导光能治愈自己每神话阶层1d6点生命值，超出上限的生命值会以临时生命的形式保存，持续到你的下一回合开始为止。每天你能使用该能力的次数等同于你的神话阶层。
 * 光明冲击Ex（2级）![wave_of_power](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/0f9a593f-a56f-4989-88f0-7f6bdf5f9e79)</br>
 每轮当你第一次用主手的非盾牌武器命中敌人后，如果你的副手正持用盾牌，则这块盾牌会立刻充满惩戒能量。在该轮内，如果你持用该盾牌命中了敌人，你可以选择放弃造成伤害，转而进行一次惩戒引导，所有距离你30尺范围内的生物（包括你自己）受到每神话阶层1d6点神圣伤害，成功通过意志豁免可以使伤害减半。
