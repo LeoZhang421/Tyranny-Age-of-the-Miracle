@@ -721,17 +721,13 @@
 
 *能力树：战斗*</br>
 *你专注于同你的敌人战斗，毫不迟疑。*
-* 光明之刃Ex（1级）![weapon_of_light-1](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/d6aacc11-ac86-4d6b-b28d-5aecd221bf86)
-</br>
+* 光明之刃Ex（1级）![weapon_of_light-1](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/d6aacc11-ac86-4d6b-b28d-5aecd221bf86)</br>
 当你成功使用盾击命中目标时，以一个直觉动作，你能引导光能治愈自己每神话阶层1d6点生命值，超出上限的生命值会以临时生命的形式保存，持续到你的下一回合开始为止。每天你能使用该能力的次数等同于你的神话阶层。
-* 光明冲击Ex（2级）![wave_of_power](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/40f12133-5f89-4da9-b1e7-5d8e90eb5cb8)
-</br>
+* 光明冲击Ex（2级）![wave_of_power](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/40f12133-5f89-4da9-b1e7-5d8e90eb5cb8)</br>
 每轮当你第一次用主手的非盾牌武器命中敌人后，如果你的副手正持用盾牌，则这块盾牌会立刻充满惩戒能量。在该轮内，如果你持用该盾牌命中了敌人，你可以选择放弃造成伤害，转而进行一次惩戒引导，所有距离你30尺范围内的生物（包括你自己）受到每神话阶层1d6点神圣伤害，成功通过意志豁免可以使伤害减半。
-* 愤怒之刃Ex（3级）![weapon_of_wrath](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/49371c54-d324-45b3-9a95-8bc1aca5f81c)
-</br>
+* 愤怒之刃Ex（3级）![weapon_of_wrath](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/49371c54-d324-45b3-9a95-8bc1aca5f81c)</br>
 你舍弃防御，向敌人落下致命一击。当你使用剑盾之怒进行惩戒引导时，你可以转而将其变为一次惩戒打击，如此做会让你如常造成武器伤害，并且对攻击的目标造成满额的惩戒引导伤害（无法通过豁免来减免伤害），直到你的下一回合开始前，你失去该盾牌给予你的所有AC加值。
-* 第二生命Ex（4级）![second_life](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/3c175fbc-b6ad-4f40-880a-52f83b22cc42)
-</br>
+* 第二生命Ex（4级）![second_life](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/3c175fbc-b6ad-4f40-880a-52f83b22cc42)</br>
 你对目标发起决斗，并向其降下至高裁决。以一个标准动作，你对一个目标发动一次十字军打击，该次攻击并不对抗目标的AC，而是对抗目标的攻击掷骰结果，若成功，视为你成功造成了一次重击（无需进行重击确认），若你的攻击掷骰结果超过目标的攻击掷骰结果20或更多，你可以直接cdg目标。无论结果如何，你在使用该能力后，过量的神力涌动使你晕眩1轮。
 </br>
 
