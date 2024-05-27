@@ -752,7 +752,7 @@
 * 阳光之怒Ex（3级）![sun_vengeance](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/93e7f5b2-f1f2-4656-b505-01efe62557de)</br>
 每当你使用近战武器成功造成重击后，你可以以一个迅捷动作施放太阳能力树的主动技能，取代正常的标准动作。
 * 阳光护体Ex（4级）![suncloak](https://github.com/LeoZhang421/Tyranny-Age-of-the-Miracle/assets/102232196/ee518a38-59fc-4609-a3bb-18772d694a9b)</br>
-你将自己包裹在阳光中，保护你
+你将自己包裹在阳光中，保护你免受致命伤害，你永远也不会承受超过你生命值一半的单击伤害。8神话阶层时，你永远也不会承受超过你生命值四分之一的单击伤害。
 </br>
 
 #### 冒险家</br>
